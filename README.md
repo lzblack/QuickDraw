@@ -22,16 +22,14 @@ The dataset used for training my model could be found at [Quick Draw dataset] ht
 ## Categories:
 The table below shows 20 categories my model used:
 
-| Dataset                | Classes | Train samples | Test samples |
-|------------------------|:---------:|:---------------:|:--------------:|
-| AG’s News              |    4    |    120 000    |     7 600    |
-| Sogou News             |    5    |    450 000    |    60 000    |
-| DBPedia                |    14   |    560 000    |    70 000    |
-| Yelp Review Polarity   |    2    |    560 000    |    38 000    |
-| Yelp Review Full       |    5    |    650 000    |    50 000    |
-| Yahoo! Answers         |    10   |   1 400 000   |    60 000    |
-| Amazon Review Full     |    5    |   3 000 000   |    650 000   |
-| Amazon Review Polarity |    2    |   3 600 000   |    400 000   |
+| apple      |  :apple: |
+| book       |  :book:  |
+| bowtie     | :bowtie: |
+| candle     | :candle: |
+| cloud      | :cloud:  |
+| cup        |    10    |
+| door       |    5     |
+| envelope   |    2     |
 
 
 
