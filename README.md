@@ -22,6 +22,7 @@ The dataset used for training my model could be found at [Quick Draw dataset] ht
 ## Categories:
 The table below shows 20 categories my model used:
 
+|           |           |           |           |
 |-----------|:-----------:|:-----------:|:-----------:|
 |   apple   |   book    |   bowtie  |   candle  |
 |   cloud   |    cup    |   door    | envelope  |
@@ -29,8 +30,13 @@ The table below shows 20 categories my model used:
 | ice cream |   leaf    | scissors  |   star    |
 |  t-shirt  |   pants   | lightning |    tree   |
 
+## Trained models
 
+You could find my trained model at **trained_models/whole_model_quickdraw**
 
+## Training
+
+You need to download npz files corresponding to 20 classes my model used and store them in folder **data**. If you want to train your model with different list of categories, you only need to change the constant **CLASSES** at **src/config.py** and download necessary npz files. Then you could simply run **python3 train.py**
 
 ## Requirements
 
