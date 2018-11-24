@@ -10,7 +10,7 @@ Here is my python source code for QuickDraw - an online game developed by google
 Below is the demo by running the sript **camera_app.py**:
 <p align="center">
   <img src="demo/quickdraw.gif" width=600><br/>
-  <i>Input video</i>
+  <i>Camera app demo</i>
 </p>
 
 ## Drawing app
