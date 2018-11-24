@@ -22,14 +22,14 @@ The dataset used for training my model could be found at [Quick Draw dataset] ht
 ## Categories:
 The table below shows 20 categories my model used:
 
-| apple      |  :apple: |
-| book       |  :book:  |
-| bowtie     | :bowtie: |
-| candle     | :candle: |
-| cloud      | :cloud:  |
-| cup        |    10    |
-| door       |    5     |
-| envelope   |    2     |
+|           |           |           |           |
+|-----------|:-----------:|:-----------:|:-----------:|
+|   apple   |   book    |   bowtie  |   candle  |
+|   cloud   |    cup    |   door    | envelope  |
+|eyeglasses |  guitar   |   hammer  |    hat    |
+| ice cream |   leaf    | scissors  |   star    |
+|  t-shirt  |   pants   | lightning |    tree   |
+
 
 
 
