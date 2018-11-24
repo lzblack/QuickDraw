@@ -21,16 +21,11 @@ The dataset used for training my model could be found at [Quick Draw dataset] ht
 
 ## Categories:
 The table below shows all categories my model used:
-| Dataset                | Classes |
-|------------------------|:---------:|
-| AG’s News              |    ![Screenshot](images/apple.png)    |
-| Sogou News             |    5    |
-| DBPedia                |    14   |
-| Yelp Review Polarity   |    2    |
-| Yelp Review Full       |    5    |
-| Yahoo! Answers         |    10   |
-| Amazon Review Full     |    5    |
-| Amazon Review Polarity |    2    |
+| Category                |           Icon          |    
+|------------------------|:--------------------------:|
+| Apple                  |![Apple](images/apple.png)|
+
+
 
 ## Requirements
 
