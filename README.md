@@ -21,7 +21,7 @@ The dataset used for training my model could be found at [Quick Draw dataset] ht
 
 ## Categories:
 The table below shows 20 categories my model used:
-:apple:
+:orange:
 | Dataset                | Classes | Train samples | Test samples |
 |------------------------|:---------:|:---------------:|:--------------:|
 | AG’s News              |    4    |    120 000    |     7 600    |
