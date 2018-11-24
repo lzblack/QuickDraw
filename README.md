@@ -1,16 +1,15 @@
-# [PYTHON] ASCII generator
+# [PYTHON] QuickDraw
 
 ## Introduction
 
-Here is my python source code for ASCII generator. with my code, you could: 
-* **Given input image, you could generate ASCII art stored under text format (.txt)**
-* **Given input image, you could generate ASCII art stored under image formats (.png, .jpg, ...). In each format, there are 2 options: Black background and white characters, or vice versa**
-* **Given input video, you could generate ASCII art stored under video formats (.avi, .mp4, ...)**
+Here is my python source code for QuickDraw - an online game developed by google. with my code, you could: 
+* **Run an app which you could draw in front of a camera (If you use laptop, your webcam will be used by default)**
+* **Run an app which you could draw on a canvas**
 
-## Video to video
-By running the sript **video2video.py** with different values for *background* and *mode*, we will have following outputs:
+## Camera app
+Below is the demo by running the sript **camera_app.py**:
 <p align="center">
-  <img src="demo/input.gif" width=800><br/>
+  <img src="demo/quickdraw.gif" width=800><br/>
   <i>Input video</i>
 </p>
 
