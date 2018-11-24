@@ -22,7 +22,6 @@ The dataset used for training my model could be found at [Quick Draw dataset] ht
 ## Categories:
 The table below shows 20 categories my model used:
 
-|           |           |           |           |
 |-----------|:-----------:|:-----------:|:-----------:|
 |   apple   |   book    |   bowtie  |   candle  |
 |   cloud   |    cup    |   door    | envelope  |
